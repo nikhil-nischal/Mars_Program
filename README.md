@@ -1,4 +1,4 @@
-Contributers:
+Contributors:
 Preetesh Verma,
 Garima Soni,
 Nikhil Nischal
