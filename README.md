@@ -1,3 +1,8 @@
+Contributers:
+Preetesh Verma
+Garima Soni
+Nikhil Nischal
+
 # Mars_Program
 This Repositiry contains the source code which was used for the Microsoft Engage Mentorship Programme 2020.
 There are two directories which includes an Ai powered Tic-Tac-Toe game and a path finding rover.
