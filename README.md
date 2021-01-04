@@ -1,6 +1,6 @@
 Contributers:
-Preetesh Verma
-Garima Soni
+Preetesh Verma,
+Garima Soni,
 Nikhil Nischal
 
 # Mars_Program
